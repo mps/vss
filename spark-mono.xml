@@ -10,7 +10,7 @@
   <Style name="fold.togglemarker" color="#EEEEEC" />
   <Style name="marker.line.dirty" color="#EDD400" />
   <Style name="marker.line.changed" color="#73D216" />
-  <Style name="text.selection" color="#000000" bgColor="#E8E8E8" />
+  <Style name="text.selection" color="#2B2B2B" bgColor="#E8E8E8" />
   <Style name="text.selection.inactive" color="#FFFFFF" bgColor="#BFCDDB" />
   <Style name="marker.line" color="#2B2B2B" />
   <Style name="marker.ruler" color="#555753" />
@@ -51,12 +51,12 @@
   <Style name="diff.location" color="#8AE232" />
   <Style name="marker.template.primary_template" color="#E9B96E" bgColor="#8F5902" />
   <Style name="marker.template.primary_highlighted_template" color="#E9B96E" bgColor="#C17D11" />
-  <Style name="marker.template.secondary_template" color="#FFFFFF" bgColor="#2E3436" />
+  <Style name="marker.template.secondary_template" color="#FFFFFF" bgColor="#2B2B2B" />
   <Style name="marker.template.secondary_highlighted_template" color="#EEEEEC" bgColor="#555753" />
   <Style name="bubble.warning" color="#BABDB6" bgColor="#444400" />
   <Style name="bubble.warning.text" color="#2B2B2B" />
   <Style name="bubble.error" color="#BABDB6" bgColor="#440000" />
-  <Style name="bubble.error.text" color="#2B2B2B" />
+  <Style name="bubble.error.text" color="#2B2B2B" bgColor="#000000" />
   <Style name="template" color="#D3D7CF" />
   <Style name="template.tag" color="#CE5C00" />
   <Style name="template.directive" color="#CE5C00" />
@@ -87,7 +87,7 @@
   <Style name="keyword.exceptions" color="#FFFFFF" bgColor="#2B2B2B" weight="Bold" />
   <Style name="keyword.modifier" color="#2B8EAF" weight="Bold" />
   <Style name="keyword.type" color="#2B8EAF" weight="Bold" />
-  <Style name="keyword.namespace" color="#2B8EAF" bgColor="#2B2B2B" weight="Bold" />
+  <Style name="keyword.namespace" color="#2B8EAF" weight="Bold" />
   <Style name="keyword.property" color="#2B8EAF" weight="Bold" />
   <Style name="keyword.declaration" color="#2B8EAF" weight="Bold" />
   <Style name="keyword.parameter" color="#FFFFFF" weight="Bold" />
