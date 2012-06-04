@@ -10,7 +10,7 @@
   <Style name="fold.togglemarker" color="#EEEEEC" />
   <Style name="marker.line.dirty" color="#EDD400" />
   <Style name="marker.line.changed" color="#73D216" />
-  <Style name="text.selection" color="#FFFFFF" bgColor="#DF7C62" />
+  <Style name="text.selection" color="#000000" bgColor="#E8E8E8" />
   <Style name="text.selection.inactive" color="#FFFFFF" bgColor="#BFCDDB" />
   <Style name="marker.line" color="#2B2B2B" />
   <Style name="marker.ruler" color="#555753" />
